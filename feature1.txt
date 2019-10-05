@@ -2,3 +2,5 @@ this is my file1 in master branch
 this is my file line2 in master branch
 this is my file line3 in master branch
 this is my file line4 in master branch
+this is my file2 in feature branch
+Adding line 2 in feature remote branch
