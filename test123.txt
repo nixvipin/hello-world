@@ -8,3 +8,4 @@ This is my test file7
 This is my test file8
 This is my test file9
 This is my test file10
+Adding a new line
