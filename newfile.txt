@@ -1,2 +1,1 @@
 This is my new file newfile.txt
-Adding a line2
