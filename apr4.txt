@@ -1,3 +1,2 @@
 This is my new file into this repository
 This is my new file into this repository line2
-This is my new file into this repository line3
