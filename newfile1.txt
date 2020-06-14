@@ -1,1 +1,2 @@
 Today is my first day 
+Adding new line2 in newfile1.txt
