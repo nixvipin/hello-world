@@ -1,0 +1,2 @@
+my new test file in feature branch
+Adding new line2 in feature.txt
