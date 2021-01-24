@@ -1,2 +1,3 @@
 This is my first git example
 This is my first git example 2
+This is my first git example 3
