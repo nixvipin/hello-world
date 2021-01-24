@@ -1,2 +1,3 @@
 This is another git example 
 This is another git example 2
+This is another git example 3
